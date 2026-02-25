@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arjun V K</h1>
-<h3 align="center">3rd Year Student | College of Engineering and Management Punnapra | Kerala, India 🇮🇳</h3>
+<h3 align="center">3rd Year Student | College of Engineering and Management Punnapra | Kerala, India </h3>
 
 ---
 
